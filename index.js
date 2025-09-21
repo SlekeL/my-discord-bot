@@ -25,4 +25,8 @@ for (const file of eventFiles) {
   }
 }
 
+HEAD
 client.login(process.env.TOKEN);
+
+client.login(process.env.TOKEN);
+b025cb84e8633379e8a886b423612d2168d56818
